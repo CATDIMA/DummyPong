@@ -1,0 +1,4 @@
+0
+25 32
+-1 -1
+Press ENTER to exit to menu
